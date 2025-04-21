@@ -1,4 +1,6 @@
-## Hola Sruti here 
+## Hola , Sruti here !
+
+# A web developer and a UI/UX designer 
 
 
 # 📊 GitHub Stats:

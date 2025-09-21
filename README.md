@@ -1,7 +1,6 @@
 ## Hola , Sruti here !
 
-# A web developer and a UI/UX designer 
-
+# A full stack web developer
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SrutiGupta&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>

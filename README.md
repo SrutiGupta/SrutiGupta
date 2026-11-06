@@ -20,20 +20,6 @@
 </div>
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=SrutiGupta&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" /></td>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=SrutiGupta&theme=catppuccin_mocha&hide_border=false" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## Tech Stack
 
 **Languages**

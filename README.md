@@ -2,9 +2,9 @@
 <div align="center">
   <img src="banner.png" width="100%" alt="Hello from Sruti's Terminal" />
 
-  **AI-driven web builder & data explorer**
+  **AI-Powered Full Stack Developer**
 
-  *Full Stack Developer · Open Source Enthusiast · Building things that matter*
+  *Building scalable web applications · Integrating AI into real-world solutions · Building things that matter*
 
 ---------
 
